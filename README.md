@@ -1,0 +1,2 @@
+# prvaDatoteka
+moja prva datoteka
